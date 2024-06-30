@@ -1,0 +1,4 @@
+name: RPGPlugin
+version: '${project.version}'
+main: com.darktroll.rpgplugin.RPGPlugin
+api-version: '1.20'
